@@ -42,13 +42,11 @@ D:fă gă ăi fă gă ăi
 I:(5)
 D:ău ăp jă ău ăp jă
  :aă ăd ăg aă ăd ăg
-#I:(6)
-#D:
-#I:(7)
-#D:
-#I:(8)
-#D:
-B:		Lesson 2: â
+B:      Lesson 2: Ă
+I:(1)
+D:Ăi Ăl Ăa Ăi Ăl Ăa
+ :Ăș Ăs Ăă Ăș Ăs Ăă
+B:		Lesson 3: â
 I:(1)
 D:âa ân aâ ân âa ân
  :âa câ mâ âa câ mâ
@@ -60,26 +58,17 @@ D:lâ âl dâ lâ âl dâ
  :âl dâ tâ âl dâ tâ
 I:(4)
 D:gâ âi vâ gâ âi vâ
-#I:(5)
-#D:
-#I:(6)
-#D:
-#I:(7)
-#D:
-B:		Lesson 5: î
+B:		Lesson 4: î
 I:(1)
 D:îi în îi în îi în
  :îi în îm îi în îm
 I:(2)
 D:îi eî în îi eî în
  :îi îl în îi îl în
-#I:(3)
-#D:
-#I:(4)
-#D:
-#I:(5)
-#D:
-B:		Lesson 3: ș
+B:      Lesson 5: Î
+I:(1)
+D:Îm În Îî Îm În Îî
+B:		Lesson 6: ș
 I:(1)
 D:șs și șs și șs și
  :și șt și șt și șt
@@ -92,13 +81,14 @@ D:ăș âș șc ăș âș șc
 I:(4)
 D:ăș șu șs ăș su și
  :sș îș sș îș sș îș
-#I:(5)
-#D:
-#I:(6)
-#D:
-#I:(7)
-#D:
-B:		Lesson 4: ț
+B:      Lesson 7: Ș
+I:(1)
+D:Și Șa Șș Și Șa Șș
+ :Și Șe Șs Și Șe Șs
+I:(2)
+D:Și Șo Șș Și Șo Șș
+ :Și Șt Șs Și Șt Șs
+B:		Lesson 8: ț
 I:(1)
 D:tț ți tț ți tț ți
  :tț aț tț aț tț aț
@@ -109,9 +99,9 @@ I:(3)
 D:ță cț eț tă cț eț
  :rț lț âț rț lț âț
 I:(4)
-D:țâ mț oț țâ mț oț
+D:țâ mț oț tâ mț oț
  :pț sț țu pț sț țu
-#I:(5)
-#D:
-#I:(6)
-#D:
+B:      Lesson 9: Ț
+I:(1)
+D:Ța Ți Țț Ța Ți Țț
+ :Țu Țt Țu Țț Țu Țț
