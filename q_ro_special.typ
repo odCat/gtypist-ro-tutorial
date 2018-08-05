@@ -29,6 +29,8 @@ T:
  :
  :GNU Typist oferă astfel de lecții în limba engleză.
 
+G:_RO_MENU
+
 *:_RO_S_RO2
 B:		Lesson 1: ă
 
@@ -171,7 +173,20 @@ D:țâ mț oț tâ mț oț
 B:      Lesson 9: Ț
 
 I:(1)
-
+                      
 *:_RO_R_L24
 D:Ța Ți Țț Ța Ți Țț
  :Țu Țt Țu Țț Țu Țț
+
+*:_RO_MENU
+B:                      Caracterele speciale din limba română
+M: "   Lecțiile disponibile sunt următoarele"
+ :_RO_S_RO2  "Lecția 1: ă"
+ :_RO_S_RO3  "Lecția 2: Ă"
+ :_RO_S_RO4  "Lectia 3: ă"
+ :_RO_S_RO5  "Lecția 4: î"
+ :_RO_S_RO6  "Lecția 5: Î"
+ :_RO_S_RO7  "Lecția 6: ș"
+ :_RO_S_RO8  "Lecția 7: Ș"
+ :_RO_S_RO9  "Lecția 8: ț"
+ :_RO_S_RO10 "Lecția 9: Ț"
