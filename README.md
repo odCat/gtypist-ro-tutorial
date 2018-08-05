@@ -24,4 +24,4 @@ Cygwin (Unix-like CLI for Windows) also contains the requred package.
 [] Add comments
 [] Add labesl for each lesson
 [] Create some speed tests
-[] Add newlines between lessons
+[X] Add newlines between lessons
