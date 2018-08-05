@@ -20,8 +20,8 @@ Cygwin (Unix-like CLI for Windows) also contains the requred package.
 
 # TODO
 
-[] Add a menu to the tutorial
-[] Add comments
-[] Add labesl for each lesson
-[] Create some speed tests
-[X] Add newlines between lessons
+- [  ] Add a menu to the tutorial
+- [  ] Add comments
+- [  ] Add labesl for each lesson
+- [  ] Create some speed tests
+- [x] Add newlines between lessons
