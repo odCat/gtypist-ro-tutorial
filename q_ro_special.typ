@@ -154,7 +154,7 @@ D:ăș âș șc ăș âș șc
 
 I:(4)
 *:_RO_R_L17
-D:ăș șu șs ăș su și
+D:ăș șu șs ăș șu și
  :sș îș sș îș sș îș
 
 #------------------------------------------------------------------------------
@@ -191,12 +191,12 @@ D:nț iț ța nț iț ța
 
 I:(3)
 *:_RO_R_L22
-D:ță cț eț tă cț eț
+D:ță cț eț ță cț eț
  :rț lț âț rț lț âț
 
 I:(4)
 *:_RO_R_L23
-D:țâ mț oț tâ mț oț
+D:țâ mț oț țâ mț oț
  :pț sț țu pț sț țu
 
 
@@ -217,7 +217,7 @@ D:Ța Ți Țț Ța Ți Țț
 #------------------------------------------------------------------------------
 *:_RO_MENU
 B:                      Caracterele speciale din limba română
-M: "   Lecțiile disponibile sunt următoarele"
+M: "Lecțiile disponibile sunt următoarele"
  :_RO_S_RO1  "Introducere"
  :_RO_S_RO2  "Lecția 1: ă"
  :_RO_S_RO3  "Lecția 2: Ă"
