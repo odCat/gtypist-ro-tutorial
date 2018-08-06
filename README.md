@@ -8,6 +8,10 @@ Run the GNU Typist with the tutorial file as argument:
 gtypist q_ro_special.typ
 ```  
 # Prerequisites
+A keyboard layout that supports the Romanian special characters. The
+recomanded layout is _Romanian (Programmers)_. It is available for
+Windows and Unix systems.
+
 Gnu Typist installed. It is a freely avalable typing tutor. 
 
 # How to get it:
