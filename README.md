@@ -25,7 +25,7 @@ Cygwin (Unix-like CLI for Windows) also contains the requred package.
 # TODO
 
 - [x] Add a menu to the tutorial
-- [ ] Add comments
+- [x] Add comments
 - [x] Add labesl for each lesson
 - [ ] Create some speed tests
 - [x] Add newlines between lessons
