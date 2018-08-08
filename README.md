@@ -5,7 +5,7 @@ A tutorial for learning the diacritics used in the Romanian alphabet, for GNU ty
 
 Run the GNU Typist with the tutorial file as argument:
 ```
-gtypist q_ro_special.typ
+gtypist ro_special.typ
 ```  
 # Prerequisites
 A keyboard layout that supports the Romanian special characters. The
@@ -25,7 +25,7 @@ Cygwin (Unix-like CLI for Windows) also contains the requred package.
 # TODO
 
 - [x] Add a menu to the tutorial
-- [ ] Add comments
+- [x] Add comments
 - [x] Add labesl for each lesson
 - [ ] Create some speed tests
 - [x] Add newlines between lessons
