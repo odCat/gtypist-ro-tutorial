@@ -212,6 +212,161 @@ I:(1)
 D:Ța Ți Țț Ța Ți Țț
  :Țu Țt Țu Țț Țu Țț
 
+PRELUDIU TÂNGUIOS
+
+O, bâiguieli împătimate,
+Cât de cicudat se poartă-n vers!
+Din casă-n casă am de mers,
+Desprinse foi le-adun pe toate.
+
+Aceea ce în depărtare
+Și răzlețit în viață sta,
+Acum, sub o-nvelitoare,
+Un cititor în mână ia.
+
+Sfârșește iute cartea mică,
+Nu te sfii, de-i cu păcate;
+De contradicții pline-s toate,
+Iar ea - să nu se contrazică?
+
+UMBLAM PRIN CODRU
+
+Umblam prin codru,
+Hoinar umblam,
+Ceva să caut
+Nici gând n-aveam.
+
+Zării în umbră
+O floricea.
+Ca steaua-n ceruri
+Ea strălucea.
+
+S-o rup voit-am.
+Ea blând grăi:
+De mă vei rupe,
+M-oi ofili.
+
+Cu rădăcină
+O luai de-aici,
+Către răzorul,
+Căsuței mici.
+
+Și-am răsădit-o
+La loc tăcut.
+Lăstari și floare
+Dă,ca-n trecut.
+
+CĂTRE LUNĂ
+
+Soră a întâilor zori,
+În tristețe, duioșie!
+Ceața-nvăluie-argintie
+Chipul tău fermecător,
+Zvonul lin, sub pasul tău,
+Scoală-n peșteri mohorâte
+Triste suflete pierdute,
+Păsări oarbe, visul meu.
+
+Ochiul tău cercetător
+Depărtările cuprind.
+Lângă tine, sus, mă prinde,
+Împlinește-mi acest dor.
+Să găsească-n ceasul blând,
+Cavalerul dus de-o vraje,
+Prin subțirele grilaje,
+Noaptea fetei, pe pământ.
+
+Se alină chinul mut
+Într-o dulce contemplare.
+Raza-ți strâng și îmi ascut
+Ochiul ce pătrunde-n zare.
+Clar, mai clar se iscă ea
+Dezvelită-n întregine,
+Și mă ia acum la sine
+Cum Endymion te lua.
+
+MOARTE APARENTĂ	
+
+Jeliți fecioare-aici, la groapa sa.
+Amor aici căzu, dintr-o nimică.
+Dar oare-i mort cu-adevărat? Nu pot jura.
+Ades, dintr-un nimic el se ridică.
+
+ÎNTÂIA PIERDERE
+
+Cine poate să învie
+Vremea dragostei dintâi?
+Cine-nvie doar o oră
+Din frumosul timp apus?
+Singur îmi grănesc durerea
+Tânguindu-mă tot mie
+Și-mi jelesc norocul dus.
+
+Cine poate să învie
+Dulcea vreame ce-a apus?
+
+APROAPE DE CEL DRAG
+
+La tine mă gândesc când valu-n soare
+Pe mări sclipește,
+Cănd licărul de lună, din izvoare
+Se oglinidește.
+
+Te văd pe tine când în drum, sub zare,
+Colb se ridică.
+În bezne, cânddrumetul pe cărare
+E prins de frică.
+
+Te-aud pe tine-n vâjâirea-adâncă
+De val, în ropot
+Adesea merg s-ascult când, stins, în luncă
+E orice șopot.
+
+Cu tine sunt; de-ai fi cât de departe,
+Sunt lângă tine.
+Apune; stelele-n curând vor arde.
+De-ai fi la mine!
+
+DE LUAT AMINTE
+
+Ah, ce poate omul cere?
+Ce-i mai bine: pacea-n sine?
+Să se-agațe cu putere?
+Să se vânture-i mai bine?
+
+O căsuță să-și dureze?
+Corturi să ridice-n cale?
+Stâncii să se-ncredințeze?
+Char și stânca se prăvale.
+
+Ce îmi șade, no să-ți șadă!
+Fiecare să vegheze,
+Unde-i să vegheze,
+Unde-i locul să se-așeze
+Și cum stă ca să nu cadă!
+
+LINIȘTE MARINĂ
+
+Grea tăcere peste apă,
+Zace valul neclintit,
+Îngrijat pescarul cată
+Spre noianul liniștit.
+Jur în jur, ce zăpușeală,
+O tăcere de mormânt!
+Pe întinderea domoală -
+Nici o zbatere de vânt.
+
+CURAJ
+
+Slobod pe gheață să luneci.
+Unde nu vezi făgașul deschis
+De cei mai cutezători,
+Taie-ți tu singur făgaș.
+
+Liniște, inima mea!
+Chiar de trosnește, nu-i spartă!
+Sparge-se - nu tu te spargi!
+
 #------------------------------------------------------------------------------
 # Lesson series RO Special menu
 #------------------------------------------------------------------------------
