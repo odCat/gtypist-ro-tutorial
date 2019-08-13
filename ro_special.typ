@@ -213,6 +213,34 @@ D:Ța Ți Țț Ța Ți Țț
  :Țu Țt Țu Țț Țu Țț
 
 #------------------------------------------------------------------------------
+# Lesson RO11
+#------------------------------------------------------------------------------
+*:_RO_S_RO11
+B:      Lecția 10
+
+*:_RO_S_RO25
+T:
+ :În această lecție ți se vor da să tastezi câteva poezii de Eminescu. Gradul
+ :de dificultate este mai crescut. Ai răbdare și fi atent.
+
+I:ȘI DACĂ...
+*:_RO_S_RO26
+S:Și dacă ramuri bat în geam
+ : Și se cutremur plopii,
+ :E ca în minte să te am
+ : Și-ncet să te apropii.
+ :
+ :Și dacă stele bat în lac
+ : Adâncu-i luminându-l,
+ :E ca durerea mea s-o-mpac
+ : Înseninându-mi gândul.
+ :
+ :Și dacă norii deși se duc
+ : De iese-n luciu luna,
+ :E ca aminte să-mi aduc
+ : De tine-ntotdeauna.
+
+#------------------------------------------------------------------------------
 # Lesson series RO Special menu
 #------------------------------------------------------------------------------
 *:_RO_MENU
@@ -228,3 +256,4 @@ M: "Lecțiile disponibile sunt următoarele"
  :_RO_S_RO8  "Lecția 7: Ș"
  :_RO_S_RO9  "Lecția 8: ț"
  :_RO_S_RO10 "Lecția 9: Ț"
+ :_RO_S_RO11 "Lecția 10: Poezii Eminescu"
