@@ -242,17 +242,17 @@ S:Și dacă ramuri bat în geam
 
 I:REVEDERE (1/3)
 *:_RO_S_RO27
-S:- Codule, codruțule,
+S:- Codrule, codruțule,
  :Ce mai faci, drăguțule,
  :Că de când nu ne-am văzut
- :Multa vreme a trecut
+ :Multă vreme a trecut
  :Și de când m-am depărtat
  :Multă lume am îmblat.
 
 I:REVEDERE (2/3)
 *:_RO_S_RO28
-S:-Ia, eu fac ce fac de mult,
- :Iarna ciscolu-l ascult,
+S:- Ia, eu fac ce fac de mult,
+ :Iarna viscolu-l ascult,
  :Crengile-mi rupându-le,
  :Apele-astupându-le,
  :Troienind cărările
@@ -264,7 +264,7 @@ S:-Ia, eu fac ce fac de mult,
  :Împlându-și cofeile,
  :Mi-o cântă femeile.
  :
- :-Codrule cu râuri line,
+ :- Codrule cu râuri line,
  :Vreme trece, vreme vine,
  :Tu din tânăr precum ești
  :Tot mereu întinerești.
