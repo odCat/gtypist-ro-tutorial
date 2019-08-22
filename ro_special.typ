@@ -223,8 +223,31 @@ T:
  :În această lecție ți se vor da să tastezi câteva poezii de Eminescu. Gradul
  :de dificultate este mai crescut. Ai răbdare și fi atent.
 
-I:ȘI DACĂ...
+I:EPIGONII (fragment)
 *:_RO_S_RO26
+S:"Moartes succede vieții, viață succede la moarte",
+ :Alt sens n-are lumea asta, n-are alt scop, altă soarte;
+ :Oamenii din toate cele fac icoană și simbol;
+ :Numesc sânt, frumos și bine ce nimic nu însemnează,
+ :Împărțesc a lor gândire pe sisteme numeroare
+ :Și pun haine de imagini pe cadacrul trist și gol.
+ :
+ :Ce e cugetarea sacră? Combinare măiestrită
+ :Unor lucruri nexistente; carte trista și-ncâlcită,
+ :Ce mai mult o încifrează cel ce vrea a descifra.
+ :Ce e poezia? Înger palid cu priviri curate,
+ :Voluptos joc cu icoane și cu glasuri tremurate,
+ :Strai de purpură și aur peste țărâna cea grea.
+ :
+ :Rămâneți dară cu bine, sânte firi vizionare,
+ :Ce faceați valul să cânte, ce puneați steaua să zboare,
+ :Ce creați o altă lume pe-asta lume de noroi;
+ :Noi reducem tot la pravul azi în noi, mâni în ruină,
+ :Proști și genii, mic și mare, sunet, suflet, lumină -
+ :Toate-s praf... Lumea-i cum este... și ca dânsa suntem noi.
+
+I:ȘI DACĂ...
+*:_RO_S_RO27
 S:Și dacă ramuri bat în geam
  : Și se cutremur plopii,
  :E ca în minte să te am
@@ -241,7 +264,7 @@ S:Și dacă ramuri bat în geam
  : De tine-ntotdeauna.
 
 I:REVEDERE (1/3)
-*:_RO_S_RO27
+*:_RO_S_RO28
 S:- Codrule, codruțule,
  :Ce mai faci, drăguțule,
  :Că de când nu ne-am văzut
@@ -250,7 +273,7 @@ S:- Codrule, codruțule,
  :Multă lume am îmblat.
 
 I:REVEDERE (2/3)
-*:_RO_S_RO28
+*:_RO_S_RO29
 S:- Ia, eu fac ce fac de mult,
  :Iarna viscolu-l ascult,
  :Crengile-mi rupându-le,
@@ -270,7 +293,7 @@ S:- Ia, eu fac ce fac de mult,
  :Tot mereu întinerești.
 
 I:REVEDERE (3/3)
-*:_RO_S_RO29
+*:_RO_S_RO30
 S:- Ce mi-i vremea, când de veacuri
  :Stele-mi scânteie pe lacuri,
  :Că de-i vremea rea sau bună,
