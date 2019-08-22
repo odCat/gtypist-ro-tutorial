@@ -230,10 +230,10 @@ S:"Moartes succede vieții, viață succede la moarte",
  :Oamenii din toate cele fac icoană și simbol;
  :Numesc sânt, frumos și bine ce nimic nu însemnează,
  :Împărțesc a lor gândire pe sisteme numeroare
- :Și pun haine de imagini pe cadacrul trist și gol.
+ :Și pun haine de imagini pe cadavrul trist și gol.
  :
  :Ce e cugetarea sacră? Combinare măiestrită
- :Unor lucruri nexistente; carte trista și-ncâlcită,
+ :Unor lucruri nexistente; carte tristă și-ncâlcită,
  :Ce mai mult o încifrează cel ce vrea a descifra.
  :Ce e poezia? Înger palid cu priviri curate,
  :Voluptos joc cu icoane și cu glasuri tremurate,
@@ -241,9 +241,9 @@ S:"Moartes succede vieții, viață succede la moarte",
  :
  :Rămâneți dară cu bine, sânte firi vizionare,
  :Ce faceați valul să cânte, ce puneați steaua să zboare,
- :Ce creați o altă lume pe-asta lume de noroi;
+ :Ce creați o altă lume pe-astă lume de noroi;
  :Noi reducem tot la pravul azi în noi, mâni în ruină,
- :Proști și genii, mic și mare, sunet, suflet, lumină -
+ :Proști și genii, mic și mare, sunet, sufletul, lumină -
  :Toate-s praf... Lumea-i cum este... și ca dânsa suntem noi.
 
 I:ȘI DACĂ...
