@@ -225,11 +225,11 @@ T:
 
 I:EPIGONII (fragment)
 *:_RO_S_RO26
-S:"Moartes succede vieții, viață succede la moarte",
+S:"Moartea succede vieții, viață succede la moarte",
  :Alt sens n-are lumea asta, n-are alt scop, altă soarte;
  :Oamenii din toate cele fac icoană și simbol;
  :Numesc sânt, frumos și bine ce nimic nu însemnează,
- :Împărțesc a lor gândire pe sisteme numeroare
+ :Împărțesc a lor gândire pe sisteme numeroase
  :Și pun haine de imagini pe cadavrul trist și gol.
  :
  :Ce e cugetarea sacră? Combinare măiestrită
