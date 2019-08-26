@@ -268,7 +268,7 @@ I:REVEDERE (1/3)
 S:- Codrule, codruțule,
  :Ce mai faci, drăguțule,
  :Că de când nu ne-am văzut
- :Multă vreme a trecut
+ :Multă vreme au trecut
  :Și de când m-am depărtat
  :Multă lume am îmblat.
 
