@@ -309,6 +309,29 @@ S:- Ce mi-i vremea, când de veacuri
  :Luna și cu soarele,
  :Codrul cu izvoarele.
 
+I:LA STEAUA
+*:_RO_S_RO31
+S:La steaua care-a răsărit
+ :E-o cale-atât de lungă,
+ :Că mii de ani i-au trebuit
+ :Luminii să ne-ajungă.
+ :
+ :Poate de mult s-a stins în drum
+ :În depărtări albastre,
+ :Iar raza ei abia acum
+ :Luci vederii noastre.
+ :
+ :Icoana stelei ce-a murit
+ :Încet pe cer se suie:
+ :Era pe când nu s-a zărit,
+ :Azi o vedem, și nu e.
+ :
+ :Tot astfel când al nostru dor
+ :Pieri în noapte-adâncă,
+ :Lumina stinsului amor
+ :Ne urmărește încă.
+
+
 #------------------------------------------------------------------------------
 # Lesson series RO Special menu
 #------------------------------------------------------------------------------
