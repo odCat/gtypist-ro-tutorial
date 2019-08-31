@@ -246,8 +246,24 @@ S:"Moartea succede vieții, viață succede la moarte",
  :Proști și genii, mic și mare, sunet, sufletul, lumină -
  :Toate-s praf... Lumea-i cum este... și ca dânsa suntem noi.
 
-I:ȘI DACĂ...
+I:SCRISOAREA III (fragment)
 *:_RO_S_RO27
+S:La un semn deschisă-i calea și s-apropie de cort
+ :Un bătrân atât de simplu, după vorbă, după port.
+ :- Tu ești Mircea?
+ : - Da-mpărate!
+ :  - Am venit să mi te-nchini.
+ :De nu, schimb a ta coroană într-o ramură de spini.
+ :- Orice gând ai, împărate, și oricum vei fi sosit,
+ :Cât suntem încă pe pace, eu îți zic: Bine-ai venit!
+ :Despre partea închinării însă, doamne, să ne ierți;
+ :Dar acu vei vrea cu oaste și război ca să ne cerți,
+ :Ori vei vrea să faci întoarsă de pe-acuma a ta cale,
+ :Să ne dai un semn și nouă de mila măriei-tale...
+ :Bucuroși le-om duce toate, de e pace, de-i război.
+
+I:ȘI DACĂ...
+*:_RO_S_RO28
 S:Și dacă ramuri bat în geam
  : Și se cutremur plopii,
  :E ca în minte să te am
@@ -264,7 +280,7 @@ S:Și dacă ramuri bat în geam
  : De tine-ntotdeauna.
 
 I:REVEDERE (1/3)
-*:_RO_S_RO28
+*:_RO_S_RO29
 S:- Codrule, codruțule,
  :Ce mai faci, drăguțule,
  :Că de când nu ne-am văzut
@@ -273,7 +289,7 @@ S:- Codrule, codruțule,
  :Multă lume am îmblat.
 
 I:REVEDERE (2/3)
-*:_RO_S_RO29
+*:_RO_S_RO30
 S:- Ia, eu fac ce fac de mult,
  :Iarna viscolu-l ascult,
  :Crengile-mi rupându-le,
@@ -293,7 +309,7 @@ S:- Ia, eu fac ce fac de mult,
  :Tot mereu întinerești.
 
 I:REVEDERE (3/3)
-*:_RO_S_RO30
+*:_RO_S_RO31
 S:- Ce mi-i vremea, când de veacuri
  :Stele-mi scânteie pe lacuri,
  :Că de-i vremea rea sau bună,
@@ -310,7 +326,7 @@ S:- Ce mi-i vremea, când de veacuri
  :Codrul cu izvoarele.
 
 I:LA STEAUA
-*:_RO_S_RO31
+*:_RO_S_RO32
 S:La steaua care-a răsărit
  :E-o cale-atât de lungă,
  :Că mii de ani i-au trebuit
