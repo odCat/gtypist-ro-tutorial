@@ -223,31 +223,8 @@ T:
  :În această lecție ți se vor da să tastezi câteva poezii de Eminescu. Gradul
  :de dificultate este mai crescut. Ai răbdare și fi atent.
 
-I:EPIGONII (fragment)
-*:_RO_S_RO26
-S:"Moartea succede vieții, viață succede la moarte",
- :Alt sens n-are lumea asta, n-are alt scop, altă soarte;
- :Oamenii din toate cele fac icoană și simbol;
- :Numesc sânt, frumos și bine ce nimic nu însemnează,
- :Împărțesc a lor gândire pe sisteme numeroase
- :Și pun haine de imagini pe cadavrul trist și gol.
- :
- :Ce e cugetarea sacră? Combinare măiestrită
- :Unor lucruri nexistente; carte tristă și-ncâlcită,
- :Ce mai mult o încifrează cel ce vrea a descifra.
- :Ce e poezia? Înger palid cu priviri curate,
- :Voluptos joc cu icoane și cu glasuri tremurate,
- :Strai de purpură și aur peste țărâna cea grea.
- :
- :Rămâneți dară cu bine, sânte firi vizionare,
- :Ce faceați valul să cânte, ce puneați steaua să zboare,
- :Ce creați o altă lume pe-astă lume de noroi;
- :Noi reducem tot la pravul azi în noi, mâni în ruină,
- :Proști și genii, mic și mare, sunet, sufletul, lumină -
- :Toate-s praf... Lumea-i cum este... și ca dânsa suntem noi.
-
 I:SCRISOAREA III (fragment)
-*:_RO_S_RO27
+*:_RO_S_RO26
 S:La un semn deschisă-i calea și s-apropie de cort
  :Un bătrân atât de simplu, după vorbă, după port.
  :- Tu ești Mircea?
@@ -263,7 +240,7 @@ S:La un semn deschisă-i calea și s-apropie de cort
  :Bucuroși le-om duce toate, de e pace, de-i război.
 
 I:ȘI DACĂ...
-*:_RO_S_RO28
+*:_RO_S_RO27
 S:Și dacă ramuri bat în geam
  : Și se cutremur plopii,
  :E ca în minte să te am
@@ -280,7 +257,7 @@ S:Și dacă ramuri bat în geam
  : De tine-ntotdeauna.
 
 I:GLOSSĂ (fragment)
-*:_RO_S_RO29
+*:_RO_S_RO28
 S:Tu rămâi la toate rece,
  :De te-ndeamnă, de te cheamă;
  :Ce e val, ca valul trece,
@@ -291,7 +268,7 @@ S:Tu rămâi la toate rece,
  :Vreme trece, vreme vine.
 
 I:PESTE VÂRFURI
-*:_RO_S_RO30
+*:_RO_S_RO29
 S:Peste vârfuri trece luna,
  :Codru-și bate frunza lin,
  :Dintre ramuri de arin
@@ -308,7 +285,7 @@ S:Peste vârfuri trece luna,
  :Pentru mine vre odată?
 
 I:SOMNOROASE PĂSĂRELE
-*:_RO_S_RO31
+*:_RO_S_RO30
 S:Somnoroase păsărele
  :Pe la cuiburi se adună,
  :Se ascund în rămurele -
@@ -330,7 +307,7 @@ S:Somnoroase păsărele
  : Noapte bună!
 
 I:REVEDERE (1/3)
-*:_RO_S_RO32
+*:_RO_S_RO31
 S:- Codrule, codruțule,
  :Ce mai faci, drăguțule,
  :Că de când nu ne-am văzut
@@ -339,7 +316,7 @@ S:- Codrule, codruțule,
  :Multă lume am îmblat.
 
 I:REVEDERE (2/3)
-*:_RO_S_RO33
+*:_RO_S_RO32
 S:- Ia, eu fac ce fac de mult,
  :Iarna viscolu-l ascult,
  :Crengile-mi rupându-le,
@@ -359,7 +336,7 @@ S:- Ia, eu fac ce fac de mult,
  :Tot mereu întinerești.
 
 I:REVEDERE (3/3)
-*:_RO_S_RO34
+*:_RO_S_RO33
 S:- Ce mi-i vremea, când de veacuri
  :Stele-mi scânteie pe lacuri,
  :Că de-i vremea rea sau bună,
@@ -376,7 +353,7 @@ S:- Ce mi-i vremea, când de veacuri
  :Codrul cu izvoarele.
 
 I:LA STEAUA
-*:_RO_S_RO35
+*:_RO_S_RO34
 S:La steaua care-a răsărit
  :E-o cale-atât de lungă,
  :Că mii de ani i-au trebuit
