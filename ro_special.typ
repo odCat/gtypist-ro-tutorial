@@ -307,6 +307,28 @@ S:Peste vârfuri trece luna,
  :Mai suna-vei dulce corn,
  :Pnetru mine vre odată?
 
+I:SOMNOROASE PĂSĂRELE
+*:_RO_S_RO31
+S:Somnorose păsărele
+ :Pe la cuiburi se adună,
+ :Se ascund în rămurele -
+ : Noapte bună!
+ :
+ :Doar izvoarele suspină,
+ :Pe când codrul negru tace;
+ :Dorm și florile-n grădină -
+ : Dormi în pace!
+ :
+ :Trece lebăda pe ape
+ :Între trestii să se culce -
+ :Fie-ți îngerii aproape,
+ : Somnul dulce!
+ :
+ :Peste-a nopții feerie
+ :Se ridică mândra luna,
+ :Totu-i vis și armonie -
+ : Noapte bună!
+
 I:REVEDERE (1/3)
 *:_RO_S_RO30
 S:- Codrule, codruțule,
