@@ -223,8 +223,54 @@ T:
  :În această lecție ți se vor da să tastezi câteva poezii de Eminescu. Gradul
  :de dificultate este mai crescut. Ai răbdare și fi atent.
 
-I:SCRISOAREA III (fragment)
+I:REVEDERE (1/3)
 *:_RO_S_RO26
+S:- Codrule, codruțule,
+ :Ce mai faci, drăguțule,
+ :Că de când nu ne-am văzut
+ :Multă vreme au trecut
+ :Și de când m-am depărtat
+ :Multă lume am îmblat.
+
+I:REVEDERE (2/3)
+*:_RO_S_RO27
+S:- Ia, eu fac ce fac de mult,
+ :Iarna viscolu-l ascult,
+ :Crengile-mi rupându-le,
+ :Apele-astupându-le,
+ :Troienind cărările
+ :Și gonind cântările;
+ :Și mai fac ce fac de mult,
+ :Vara doina mi-o ascult
+ :Pe cărarea spre izvor
+ :Ce le-am dat-o tuturor,
+ :Împlându-și cofeile,
+ :Mi-o cântă femeile.
+ :
+ :- Codrule cu râuri line,
+ :Vreme trece, vreme vine,
+ :Tu din tânăr precum ești
+ :Tot mereu întinerești.
+
+I:REVEDERE (3/3)
+*:_RO_S_RO28
+S:- Ce mi-i vremea, când de veacuri
+ :Stele-mi scânteie pe lacuri,
+ :Că de-i vremea rea sau bună,
+ :Vântu-mi bate, frunza-mi sună;
+ :Și de-i vremea bună, rea,
+ :Mie-mi curge Dunărea.
+ :Numai omu-i schimbător,
+ :Pe pământ rătăcitor,
+ :Iar noi locului ne ținem,
+ :Cum am fost așa rămânem:
+ :Marea și cu râurile,
+ :Lumea cu pustiurile,
+ :Luna și cu soarele,
+ :Codrul cu izvoarele.
+
+I:SCRISOAREA III (fragment)
+*:_RO_S_RO29
 S:La un semn deschisă-i calea și s-apropie de cort
  :Un bătrân atât de simplu, după vorbă, după port.
  :- Tu ești Mircea?
@@ -240,7 +286,7 @@ S:La un semn deschisă-i calea și s-apropie de cort
  :Bucuroși le-om duce toate, de e pace, de-i război.
 
 I:ȘI DACĂ...
-*:_RO_S_RO27
+*:_RO_S_RO30
 S:Și dacă ramuri bat în geam
  : Și se cutremur plopii,
  :E ca în minte să te am
@@ -257,7 +303,7 @@ S:Și dacă ramuri bat în geam
  : De tine-ntotdeauna.
 
 I:GLOSSĂ (fragment)
-*:_RO_S_RO28
+*:_RO_S_RO31
 S:Tu rămâi la toate rece,
  :De te-ndeamnă, de te cheamă;
  :Ce e val, ca valul trece,
@@ -268,7 +314,7 @@ S:Tu rămâi la toate rece,
  :Vreme trece, vreme vine.
 
 I:PESTE VÂRFURI
-*:_RO_S_RO29
+*:_RO_S_RO32
 S:Peste vârfuri trece luna,
  :Codru-și bate frunza lin,
  :Dintre ramuri de arin
@@ -285,7 +331,7 @@ S:Peste vârfuri trece luna,
  :Pentru mine vre odată?
 
 I:SOMNOROASE PĂSĂRELE
-*:_RO_S_RO30
+*:_RO_S_RO33
 S:Somnoroase păsărele
  :Pe la cuiburi se adună,
  :Se ascund în rămurele -
@@ -307,7 +353,7 @@ S:Somnoroase păsărele
  : Noapte bună!
 
 I:CE TE LEGENI...
-*:_RO_S_RO31
+*:_RO_S_RO34
 S:- Ce te legeni, codrule,
  :Fără ploaie, fără vânt,
  :Cu crengile la pământ?
@@ -334,54 +380,24 @@ S:- Ce te legeni, codrule,
  :Și cu doru-mi singurel,
  :De mă-ngân numai cu el!
 
-I:REVEDERE (1/3)
-*:_RO_S_RO32
-S:- Codrule, codruțule,
- :Ce mai faci, drăguțule,
- :Că de când nu ne-am văzut
- :Multă vreme au trecut
- :Și de când m-am depărtat
- :Multă lume am îmblat.
-
-I:REVEDERE (2/3)
-*:_RO_S_RO33
-S:- Ia, eu fac ce fac de mult,
- :Iarna viscolu-l ascult,
- :Crengile-mi rupându-le,
- :Apele-astupându-le,
- :Troienind cărările
- :Și gonind cântările;
- :Și mai fac ce fac de mult,
- :Vara doina mi-o ascult
- :Pe cărarea spre izvor
- :Ce le-am dat-o tuturor,
- :Împlându-și cofeile,
- :Mi-o cântă femeile.
- :
- :- Codrule cu râuri line,
- :Vreme trece, vreme vine,
- :Tu din tânăr precum ești
- :Tot mereu întinerești.
-
-I:REVEDERE (3/3)
-*:_RO_S_RO34
-S:- Ce mi-i vremea, când de veacuri
- :Stele-mi scânteie pe lacuri,
- :Că de-i vremea rea sau bună,
- :Vântu-mi bate, frunza-mi sună;
- :Și de-i vremea bună, rea,
- :Mie-mi curge Dunărea.
- :Numai omu-i schimbător,
- :Pe pământ rătăcitor,
- :Iar noi locului ne ținem,
- :Cum am fost așa rămânem:
- :Marea și cu râurile,
- :Lumea cu pustiurile,
- :Luna și cu soarele,
- :Codrul cu izvoarele.
+I:LA MIJLOC DE CODRU...
+*:_RO_S_RO35
+S:La mijloc de codru des
+ :Toate păsările ies,
+ :Din huceag de aluniș,
+ :La voiosul luminiș,
+ :Luminiș de lângă baltă,
+ :Care-n trestia înaltă
+ :Legănându-se din unde,
+ :În adâncu-i se pătrunde
+ :Și de lună și de soare
+ :Și de păsări călătoare,
+ :Și de lună și de stele
+ :Și de zbor de rândunele
+ :Și de chipul dragei mele.
 
 I:LA STEAUA
-*:_RO_S_RO35
+*:_RO_S_RO36
 S:La steaua care-a răsărit
  :E-o cale-atât de lungă,
  :Că mii de ani i-au trebuit
