@@ -297,19 +297,19 @@ S:Peste vârfuri trece luna,
  :Dintre ramuri de arin
  :Melancolic cornul sună.
  :
- :Mai deaprte, mai departe,
+ :Mai departe, mai departe,
  :Mai încet, tot mai încet,
  :Sufletu-i nemângâiat
  :Îndulcind cu dor de moarte.
  :
- :De ce taci, când fermecata
+ :De ce taci, când fermecată
  :Inima-mi spre tine-ntorn?
  :Mai suna-vei dulce corn,
- :Pnetru mine vre odată?
+ :Pentru mine vre odată?
 
 I:SOMNOROASE PĂSĂRELE
 *:_RO_S_RO31
-S:Somnorose păsărele
+S:Somnoroase păsărele
  :Pe la cuiburi se adună,
  :Se ascund în rămurele -
  : Noapte bună!
@@ -325,12 +325,12 @@ S:Somnorose păsărele
  : Somnul dulce!
  :
  :Peste-a nopții feerie
- :Se ridică mândra luna,
+ :Se ridică mândra lună,
  :Totu-i vis și armonie -
  : Noapte bună!
 
 I:REVEDERE (1/3)
-*:_RO_S_RO30
+*:_RO_S_RO32
 S:- Codrule, codruțule,
  :Ce mai faci, drăguțule,
  :Că de când nu ne-am văzut
@@ -339,7 +339,7 @@ S:- Codrule, codruțule,
  :Multă lume am îmblat.
 
 I:REVEDERE (2/3)
-*:_RO_S_RO31
+*:_RO_S_RO33
 S:- Ia, eu fac ce fac de mult,
  :Iarna viscolu-l ascult,
  :Crengile-mi rupându-le,
@@ -359,7 +359,7 @@ S:- Ia, eu fac ce fac de mult,
  :Tot mereu întinerești.
 
 I:REVEDERE (3/3)
-*:_RO_S_RO32
+*:_RO_S_RO34
 S:- Ce mi-i vremea, când de veacuri
  :Stele-mi scânteie pe lacuri,
  :Că de-i vremea rea sau bună,
@@ -376,7 +376,7 @@ S:- Ce mi-i vremea, când de veacuri
  :Codrul cu izvoarele.
 
 I:LA STEAUA
-*:_RO_S_RO33
+*:_RO_S_RO35
 S:La steaua care-a răsărit
  :E-o cale-atât de lungă,
  :Că mii de ani i-au trebuit
