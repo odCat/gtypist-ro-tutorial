@@ -279,8 +279,19 @@ S:Și dacă ramuri bat în geam
  :E ca aminte să-mi aduc
  : De tine-ntotdeauna.
 
-I:REVEDERE (1/3)
+I:GLOSSĂ (fragment)
 *:_RO_S_RO29
+S:Tu rămâi la toate rece,
+ :De te-ndeamnă, de te cheamă;
+ :Ce e val, ca valul trece,
+ :Nu spera și nu ai teamă;
+ :Te întreabă și socoate
+ :Ce e rău și ce e bine;
+ :Toate-s vechi și nouă toate:
+ :Vreme trece, vreme vine.
+
+I:REVEDERE (1/3)
+*:_RO_S_RO30
 S:- Codrule, codruțule,
  :Ce mai faci, drăguțule,
  :Că de când nu ne-am văzut
@@ -289,7 +300,7 @@ S:- Codrule, codruțule,
  :Multă lume am îmblat.
 
 I:REVEDERE (2/3)
-*:_RO_S_RO30
+*:_RO_S_RO31
 S:- Ia, eu fac ce fac de mult,
  :Iarna viscolu-l ascult,
  :Crengile-mi rupându-le,
@@ -309,7 +320,7 @@ S:- Ia, eu fac ce fac de mult,
  :Tot mereu întinerești.
 
 I:REVEDERE (3/3)
-*:_RO_S_RO31
+*:_RO_S_RO32
 S:- Ce mi-i vremea, când de veacuri
  :Stele-mi scânteie pe lacuri,
  :Că de-i vremea rea sau bună,
@@ -326,7 +337,7 @@ S:- Ce mi-i vremea, când de veacuri
  :Codrul cu izvoarele.
 
 I:LA STEAUA
-*:_RO_S_RO32
+*:_RO_S_RO33
 S:La steaua care-a răsărit
  :E-o cale-atât de lungă,
  :Că mii de ani i-au trebuit
