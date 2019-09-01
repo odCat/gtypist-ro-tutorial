@@ -418,6 +418,18 @@ S:La steaua care-a răsărit
  :Lumina stinsului amor
  :Ne urmărește încă.
 
+I:CU PENETUL CA SIDEFUL
+*:_RO_S_RO37
+S:Cu penetul ca sideful
+ :Strălucește-o porumbiță,
+ :Cu căpșorul sub aripă,
+ :Adormită sub o viță.
+ :
+ :Și tăcere e afară.
+ :Luminează aer, stele.
+ :Mută-i noaptea - numai râul
+ :Se frământă-n pietricele.
+
 
 #------------------------------------------------------------------------------
 # Lesson series RO Special menu
