@@ -290,6 +290,23 @@ S:Tu rămâi la toate rece,
  :Toate-s vechi și nouă toate:
  :Vreme trece, vreme vine.
 
+I:PESTE VÂRFURI
+*:_RO_S_RO30
+S:Peste vârfuri trece luna,
+ :Codru-și bate frunza lin,
+ :Dintre ramuri de arin
+ :Melancolic cornul sună.
+ :
+ :Mai deaprte, mai departe,
+ :Mai încet, tot mai încet,
+ :Sufletu-i nemângâiat
+ :Îndulcind cu dor de moarte.
+ :
+ :De ce taci, când fermecata
+ :Inima-mi spre tine-ntorn?
+ :Mai suna-vei dulce corn,
+ :Pnetru mine vre odată?
+
 I:REVEDERE (1/3)
 *:_RO_S_RO30
 S:- Codrule, codruțule,
