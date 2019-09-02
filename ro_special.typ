@@ -409,7 +409,7 @@ S:La steaua care-a răsărit
  :Luci vederii noastre.
  :
  :Icoana stelei ce-a murit
- :Încet pe cer se suie:
+ :Încet pe cer"se suie:
  :Era pe când nu s-a zărit,
  :Azi o vedem, și nu e.
  :
@@ -447,4 +447,22 @@ M: "Lecțiile disponibile sunt următoarele"
  :_RO_S_RO8  "Lecția 7: Ș"
  :_RO_S_RO9  "Lecția 8: ț"
  :_RO_S_RO10 "Lecția 9: Ț"
- :_RO_S_RO11 "Lecția 10: Poezii Eminescu"
+ :_RO_EMINESCU_MENU "Lecția 10: Poezii Eminescu"
+
+#------------------------------------------------------------------------------
+# Lesson series RO Special menu
+#------------------------------------------------------------------------------
+*:_RO_EMINESCU_MENU
+B:                      Poezii de Mihai Eminescu
+M: "Lecțiile disponibile sunt următoarele"
+ :_RO_S_RO25 "Introducere"
+ :_RO_S_RO26 "Revedere"
+ :_RO_S_RO29 "Scrisoarea III"
+ :_RO_S_RO30 "Și dacă..."
+ :_RO_S_RO31 "Glossă"
+ :_RO_S_RO32 "Peste vârfuri"
+ :_RO_S_RO33 "Somnoroase păsărele"
+ :_RO_S_RO34 "Ce te legeni..."
+ :_RO_S_RO35 "La mijloc de codru..."
+ :_RO_S_RO36 "La steaua"
+ :_RO_S_RO37 "Cu penetul ca sideful"
