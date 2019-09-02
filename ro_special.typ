@@ -409,7 +409,7 @@ S:La steaua care-a răsărit
  :Luci vederii noastre.
  :
  :Icoana stelei ce-a murit
- :Încet pe cer"se suie:
+ :Încet pe cer se suie:
  :Era pe când nu s-a zărit,
  :Azi o vedem, și nu e.
  :
