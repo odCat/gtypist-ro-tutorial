@@ -308,7 +308,7 @@ S:A fost odatá ca-n povești,
  : Corăbii negre duce.
 
 I:LUCEAFÁRUL (fragment) (1/2)
-*:_RO_S_RO32
+*:_RO_S_RO31
 S:Îl vede azi, îl vede mâni,
  : Astfel dorința-i gata;
  :El iar, privind de săptămâni,
