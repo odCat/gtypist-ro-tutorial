@@ -287,7 +287,7 @@ S:La un semn deschisă-i calea și s-apropie de cort
 
 I:LUCEAFÁRUL (fragment) (1/2)
 *:_RO_S_RO30
-S:A fost odatá ca-n povești,
+S:A fost odată ca-n povești,
  : A fost ca niciodată,
  :Din rude mari împărătești,
  : O prea frumoasă fată.
@@ -497,11 +497,12 @@ M: "Lecțiile disponibile sunt următoarele"
  :_RO_S_RO25 "Introducere"
  :_RO_S_RO26 "Revedere"
  :_RO_S_RO29 "Scrisoarea III"
- :_RO_S_RO30 "Și dacă..."
- :_RO_S_RO31 "Glossă"
- :_RO_S_RO32 "Peste vârfuri"
- :_RO_S_RO33 "Somnoroase păsărele"
- :_RO_S_RO34 "Ce te legeni..."
- :_RO_S_RO35 "La mijloc de codru..."
- :_RO_S_RO36 "La steaua"
- :_RO_S_RO37 "Cu penetul ca sideful"
+ :_RO_S_RO30 "Luceafărul"
+ :_RO_S_RO32 "Și dacă..."
+ :_RO_S_RO33 "Glossă"
+ :_RO_S_RO34 "Peste vârfuri"
+ :_RO_S_RO35 "Somnoroase păsărele"
+ :_RO_S_RO36 "Ce te legeni..."
+ :_RO_S_RO37 "La mijloc de codru..."
+ :_RO_S_RO38 "La steaua"
+ :_RO_S_RO39 "Cu penetul ca sideful"
