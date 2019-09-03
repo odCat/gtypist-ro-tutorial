@@ -285,8 +285,15 @@ S:La un semn deschisă-i calea și s-apropie de cort
  :Să ne dai un semn și nouă de mila măriei-tale...
  :Bucuroși le-om duce toate, de e pace, de-i război.
 
-I:ȘI DACĂ...
+I:LUCEAFÁRUL
 *:_RO_S_RO30
+S:A fost odatá ca-n povești,
+ : A fost ca niciodată,
+ :Din rude mari împărătești,
+ : O prea frumoasă fată.
+
+I:ȘI DACĂ...
+*:_RO_S_RO31
 S:Și dacă ramuri bat în geam
  : Și se cutremur plopii,
  :E ca în minte să te am
@@ -303,7 +310,7 @@ S:Și dacă ramuri bat în geam
  : De tine-ntotdeauna.
 
 I:GLOSSĂ (fragment)
-*:_RO_S_RO31
+*:_RO_S_RO32
 S:Tu rămâi la toate rece,
  :De te-ndeamnă, de te cheamă;
  :Ce e val, ca valul trece,
@@ -314,7 +321,7 @@ S:Tu rămâi la toate rece,
  :Vreme trece, vreme vine.
 
 I:PESTE VÂRFURI
-*:_RO_S_RO32
+*:_RO_S_RO33
 S:Peste vârfuri trece luna,
  :Codru-și bate frunza lin,
  :Dintre ramuri de arin
@@ -331,7 +338,7 @@ S:Peste vârfuri trece luna,
  :Pentru mine vre odată?
 
 I:SOMNOROASE PĂSĂRELE
-*:_RO_S_RO33
+*:_RO_S_RO34
 S:Somnoroase păsărele
  :Pe la cuiburi se adună,
  :Se ascund în rămurele -
@@ -353,7 +360,7 @@ S:Somnoroase păsărele
  : Noapte bună!
 
 I:CE TE LEGENI...
-*:_RO_S_RO34
+*:_RO_S_RO35
 S:- Ce te legeni, codrule,
  :Fără ploaie, fără vânt,
  :Cu crengile la pământ?
@@ -381,7 +388,7 @@ S:- Ce te legeni, codrule,
  :De mă-ngân numai cu el!
 
 I:LA MIJLOC DE CODRU...
-*:_RO_S_RO35
+*:_RO_S_RO36
 S:La mijloc de codru des
  :Toate păsările ies,
  :Din huceag de aluniș,
@@ -397,7 +404,7 @@ S:La mijloc de codru des
  :Și de chipul dragei mele.
 
 I:LA STEAUA
-*:_RO_S_RO36
+*:_RO_S_RO37
 S:La steaua care-a răsărit
  :E-o cale-atât de lungă,
  :Că mii de ani i-au trebuit
@@ -419,7 +426,7 @@ S:La steaua care-a răsărit
  :Ne urmărește încă.
 
 I:CU PENETUL CA SIDEFUL
-*:_RO_S_RO37
+*:_RO_S_RO38
 S:Cu penetul ca sideful
  :Strălucește-o porumbiță,
  :Cu căpșorul sub aripă,
